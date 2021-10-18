@@ -1,0 +1,179 @@
+/* Colored Links */
+/* Discord */
+[href*="discord.com/channels/"] {
+    color:#5865f2 !important;
+}
+[href*="discord.com/"],
+[href*="discordapp.com/"],
+[href*="discord.gg/"],
+[href*="cdn.discordapp.com/"],
+[href*="cdn.discordapp.com/"],
+[href*="media.discordapp.net/"],
+[href*="hawks.discord.com/"],
+[href*="hawks.discordapp.com"],
+[href*="dis.gd/"],
+[href*="discordapp.net/"],
+[href*="discord.dev/"],
+[href*="invite.stickerbook.co/"],
+[href*="dis.gg/balance"],
+[href*="dis.gg/bravery"],
+[href*="dis.gg/brilliance"]
+{
+    color:#5865f2 !important;
+    font-weight: 700;
+}
+
+/* Aliucord */
+[href*="aliucord.com/"] {
+    color: #00C853 !important;
+    font-weight: 700;
+}
+
+/* Better Discord */
+[href*="betterdiscord.com/"],
+[href*="betterdiscord.app/"] {
+color: #3F83E6 !important;
+font-weight: 700;
+}
+
+/* Powercord */
+[href*="powercord.dev/"] {
+color: #7289D9 !important;
+font-weight: 700;
+}
+
+/* Goosemod */
+[href*="goosemod.com/"] {
+color: #86909D !important;
+font-weight: 700;
+}
+
+/* Stylus */
+[href*="uso.kkx.one"] {
+    color: #28FEFE !important;
+    font-weight: 700;
+}
+
+/* Vizality */
+[href*="vizality.com"] {
+    color: #FF006A !important;
+    font-weight: 700;
+}
+
+/* Top.gg */
+[href*="top.gg/"] {
+color: #243880 !important;
+font-weight: 700;
+}
+
+/* Guilded */
+[href*="guilded.gg/"] {
+color: #F5C400 !important;
+font-weight: 700; 
+}
+
+/* Roblox */
+[href*="roblox.com/"] {
+color: #E2231A !important;
+font-weight: 700;
+}
+
+/* Instagram */
+[href*="instagram.com/"] {
+background: -webkit-linear-gradient(80deg, rgb(255, 238, 0), rgb(255, 157, 11), #b700ff);
+    --webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+} 
+
+/* Twitter */
+[href*="twitter.com/"] {
+    color:#00acee !important;
+    font-weight: 700;
+}
+
+/* Snapchat */
+[href*="snapchat.com/"] {
+color: #FFFC00 !important;
+font-weight: 700;
+}
+
+/* Tiktok */
+[href*="tiktok.com/"] {
+background: -webkit-linear-gradient(80deg, rgb(102, 194, 201), rgb(247, 247, 247), rgb(230, 28, 79));
+    --webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;}
+
+/* YouTube */
+[href*="youtu.be"],
+[href*="youtube.com"] {
+    color:#c4302b !important;
+    font-weight: 700;
+}
+/* Twitch */
+[href*="twitch.tv"],
+[href*="twitch.tv/"] {
+    color:#b700ff !important;
+    font-weight: 700;
+}
+
+/* Spotify */
+[href*="spotify.com/"],
+[href*="open.spotify.com/"] {
+    color:#13B94A !important; 
+    font-weight: 700;
+}
+
+/* Soundcloud */
+[href*="soundcloud.com/"] {
+    color:#ff7700 !important; 
+    font-weight: 700;
+}
+
+/* Facebook */
+[href*="facebook.com/"] {
+    color:#3b5998 !important;
+    font-weight: 700;
+}
+
+/* Reddit */
+[href*="reddit.com/"],
+[href*="redd.it/"] {
+    color:#e05a0c !important; 
+    font-weight: 700;
+}
+
+/* Pintrest */
+[href*="pinterest.ca/"] {
+color: #F0002A !important;
+font-weight: 700;
+}
+
+/* GitHub */
+[href*="github.com/"],
+[href*=".github.io/"] {
+    color:#2b3137 !important;
+    font-weight: 700;
+}
+
+/* Imgur */
+[href*="i.imgur.com/"],
+[href*="imgur.com/"] {
+    color:#89C623 !important;
+    font-weight: 700;
+}
+
+/* Medal.tv */
+[href*="medal.tv/"] {
+    color:#977547 !important; 
+    font-weight: 700;
+}
+
+/* Steam */
+[href*="store.steampowered.com/"],
+[href*="s.team/"],
+[href*="steamcommunity.com/"] {
+    color:#1b2838 !important; 
+    font-weight: 700;
+}
